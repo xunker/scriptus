@@ -1,0 +1,12 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 042B0H 042B1H Scriptus_13h_The_First_Loop CODE
+ 042C0H 04C9CH 009DDH Fpp13h             CODE
+ 04CA0H 04CA0H 00000H Dos                CODE
+ 04CA0H 052BEH 0061FH Crt                CODE
+ 052C0H 06147H 00E88H System             CODE
+ 06150H 06B59H 00A0AH DATA               DATA
+ 06B60H 0AB5FH 04000H STACK              STACK
+ 0AB60H 0AB60H 00000H HEAP               HEAP
+
